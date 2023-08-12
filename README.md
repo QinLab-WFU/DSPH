@@ -1,4 +1,4 @@
-# Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval [Paper](https://ieeexplore.ieee.org/document/10149001)
+# Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval [paper](https://ieeexplore.ieee.org/document/10149001)
 This paper is accepted for publication with TCSVT.
 If you have any questions please contact hyd199810@163.com.
 
