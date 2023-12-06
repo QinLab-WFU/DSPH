@@ -47,5 +47,17 @@ After the dataset has been prepared, we could run the follow command to train.
 > python main.py --is-train --dataset coco --caption-file caption.mat --index-file index.mat --label-file label.mat --lr 0.001 --output-dim 64 --save-dir ./result/coco/64 --clip-path ./ViT-B-32.pt --batch-size 128 --numclass 80
 
 
+### Citation
+@ARTICLE{10149001,
+  author={Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Wang, Lei and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={early access},
+  doi={10.1109/TCSVT.2023.3285266}}
+
+
 ### Acknowledegements
 [DCHMT](https://github.com/kalenforn/DCHMT)
