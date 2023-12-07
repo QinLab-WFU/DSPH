@@ -56,7 +56,7 @@ After the dataset has been prepared, we could run the follow command to train.
   volume={},  
   number={},  
   pages={1-1},  
-  doi={10.1109/TCSVT.2023.3285266}}  
+  doi={10.1109/TCSVT.2023.3285266(https://ieeexplore.ieee.org/document/10149001)}}  
 
 
 ### Acknowledegements
