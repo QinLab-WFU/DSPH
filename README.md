@@ -48,7 +48,7 @@ After the dataset has been prepared, we could run the follow command to train.
 
 
 ### Citation
-@ARTICLE{10149001,
+@ARTICLE{10149001,  
   author={Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Wang, Lei and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},  
   title={Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval},  
