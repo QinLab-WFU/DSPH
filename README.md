@@ -55,7 +55,7 @@ After the dataset has been prepared, we could run the follow command to train.
   year={2023},  
   volume={},  
   number={},  
-  pages={early access},  
+  pages={1-1},  
   doi={10.1109/TCSVT.2023.3285266}}  
 
 
