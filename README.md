@@ -13,7 +13,7 @@ We use python to build our code, you need to install those package to run
 ## Training
 
 ### Processing dataset
-Before training, you need to download the oringal data from [coco](https://cocodataset.org/#download)(include 2017 train,val and annotations), [nuswide](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)(include all), [mirflickr25k](https://www.kaggle.com/datasets/paulrohan2020/mirflickr25k)(include mirflickr25k and mirflickr25k_annotations_v080), 
+Before training, you need to download the oringal data from [coco](https://cocodataset.org/#download)(include 2017 train,val and annotations), [nuswide](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)(include all), [mirflickr25k](https://pan.baidu.com/s/1upgnBNNVfBzMiIET9zPfZQ)(提取码:u9e1, include mirflickr25k and mirflickr25k_annotations_v080), 
 then use the "data/make_XXX.py" to generate .mat file
 
 After all mat file generated, the dir of `dataset` will like this:
