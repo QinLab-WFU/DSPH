@@ -51,11 +51,11 @@ After the dataset has been prepared, we could run the follow command to train.
 @ARTICLE{10149001,  
   author={Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Wang, Lei and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},  
-  title={Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval},  
-  year={2023},  
-  volume={},  
-  number={},  
-  pages={},  
+  title={Deep Semantic-Aware Proxy Hashing for Multi-Label Cross-Modal Retrieval},  
+  year={2024},  
+  volume={34},  
+  number={1},  
+  pages={576-589},  
   doi={[10.1109/TCSVT.2023.3285266](https://ieeexplore.ieee.org/document/10149001)}}  
 
 
